@@ -1,4 +1,4 @@
-## Kong Plugin: Logging of the request and response went through kong to external system
+## Kong Plugin: Log the kong request and response to external system
 
 ### Description:
 ### The plugin is designed to store kong request logs and kong response logs in an external system.
