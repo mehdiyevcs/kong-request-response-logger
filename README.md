@@ -1,6 +1,7 @@
 ## Kong Plugin: Logging of the request and response went through kong to external system
 
 ### Description:
+### The plugin is designed to store kong request logs and kong response logs in an external system.
 ### The history of the investigation began with the business need to record every user action at a single point of change. (Something like Audit Logging of the User actions)
 ### As a result of the investigation, it was found that it is possible to send both the request and the response received by Kong to the external system (some kind of ms-audit)
 
